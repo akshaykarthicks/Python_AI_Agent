@@ -1,6 +1,8 @@
 # Simple AI Agent
 
 An interactive AI agent that leverages OpenRouter Llama-3 and Firecrawl tools to scrape, crawl, and extract data from websites via a command-line interface.
+![image](https://github.com/user-attachments/assets/fbb1b85b-4edb-4bbd-bd1a-0a1b566868c0)
+
 
 ---
 
